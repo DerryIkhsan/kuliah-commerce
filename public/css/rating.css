@@ -1,0 +1,18 @@
+/*---------- star rating ----------*/
+.star-rating, .back-stars, .front-stars {
+  display: flex; }
+
+.star-rating {
+  align-items: inherit;
+  font-size: 1.5em; }
+
+.back-stars {
+  color: #AAAAAA;
+  position: relative; }
+
+.front-stars {
+  color: #FFBC0B;
+  overflow: hidden;
+  position: absolute; }
+
+/*# sourceMappingURL=rating.css.map */
